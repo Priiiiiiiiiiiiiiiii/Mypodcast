@@ -1,33 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:media="http://search.yahoo.com/mrss/">
-
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>صدای ورق‌ها</title>
-    <link>https://github.com/Priiiiiiiiiiiiiiiii/Mypodcast</link>
+    <link>https://castbox.fm/</link>
     <language>fa</language>
-    <description>
-      در این پادکست، کتاب‌هایی از دنیای روان‌شناسی، فلسفه، داستان، توسعه فردی و موضوعات گوناگون را می‌شنوید. قدم به دنیای کتاب‌هایی می‌گذاریم که می‌توانند فکرمان را بازتر، نگاهمان را عمیق‌تر و زندگی‌مان را پررنگ‌تر کنند. اگر دنبال شنیدنِ روایت‌هایی آرام، کاربردی و صمیمی هستی، اینجا جایی برای توست.
-    </description>
+    <copyright>شکیبا فتحی</copyright>
     <itunes:author>شکیبا فتحی</itunes:author>
-    <itunes:explicit>no</itunes:explicit>
+    <itunes:summary>پادکست صدای ورق‌ها درباره کتاب‌هایی‌ست که به آن‌ها گوش می‌دهیم</itunes:summary>
+    <description>پادکست صدای ورق‌ها درباره کتاب‌هایی‌ست که به آن‌ها گوش می‌دهیم</description>
     <itunes:image href="https://raw.githubusercontent.com/Priiiiiiiiiiiiiiiii/Mypodcast/main/cover.jpg"/>
-    <image>
-      <url>https://raw.githubusercontent.com/Priiiiiiiiiiiiiiiii/Mypodcast/main/cover.jpg</url>
-      <title>صدای ورق‌ها</title>
-      <link>https://github.com/Priiiiiiiiiiiiiiiii/Mypodcast</link>
-    </image>
+    <itunes:category text="Arts"/>
+    <itunes:explicit>no</itunes:explicit>
 
     <item>
-      <title>بخش اول کتاب چگونه کمال‌گرا نباشیم</title>
-      <description>
-        این اپیزود از کتاب «چگونه کمال‌گرا نباشیم» اثر استفان گایز می‌باشد که نشان می‌دهد چطور با رها کردن کمال‌گرایی و تمرکز بر روی قدم‌های کوچک، می‌توانیم پیشرفت واقعی داشته باشیم.
-      </description>
-      <pubDate>Thu, 06 Jun 2025 00:00:00 +0000</pubDate>
-      <enclosure url="https://raw.githubusercontent.com/Priiiiiiiiiiiiiiiii/Mypodcast/main/Audio_595199%20(online-audio-converter.com)-1.mp3" type="audio/mpeg"/>
-      <guid>episode-1</guid>
-      <itunes:duration>00:00:00</itunes:duration>
+      <title>اپیزود ۱ - چگونه کمال‌گرا نباشیم</title>
+      <description>در این قسمت به کتاب «چگونه کمال‌گرا نباشیم» اثر استفان گایس گوش می‌دهیم.</description>
+      <itunes:image href="https://raw.githubusercontent.com/Priiiiiiiiiiiiiiiii/Mypodcast/main/InShot_20250606_021038911.jpg" />
+      <enclosure url="https://github.com/Priiiiiiiiiiiiiiiii/Mypodcast/raw/main/Audio_595199%20(online-audio-converter.com)-1.mp3" length="12345678" type="audio/mpeg" />
+      <guid>episode1</guid>
+      <pubDate>Sat, 07 Jun 2025 12:00:00 GMT</pubDate>
     </item>
+
   </channel>
 </rss>
