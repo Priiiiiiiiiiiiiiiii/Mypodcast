@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+  <channel>
+    <title>صدای ورق‌ها</title>
+    <link>https://github.com/Priiiiiiiiiiiiiiiii/Mypodcast</link>
+    <language>fa</language>
+    <copyright>© 2025 Shakiba Fathi</copyright>
+    <itunes:author>Shakiba Fathi</itunes:author>
+    <description>در این پادکست، کتاب‌هایی از دنیای روان‌شناسی، فلسفه، داستان، توسعه فردی و موضوعات گوناگون را می‌شنوید. قدم به دنیای کتاب‌هایی می‌گذاریم که می‌توانند فکرمان را بازتر، نگاهمان را عمیق‌تر و زندگی‌مان را پررنگ‌تر کنند.</description>
+    <itunes:owner>
+      <itunes:name>Shakiba Fathi</itunes:name>
+      <itunes:email>shakibafathi80@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://github.com/Priiiiiiiiiiiiiiiii/Mypodcast/blob/main/cover.jpg?raw=true"/>
+    <itunes:category text="Society & Culture"/>
+    <itunes:explicit>no</itunes:explicit>
+
+    <item>
+      <title>بخش اول کتاب چگونه کمال‌گرا نباشیم</title>
+      <itunes:author>Shakiba Fathi</itunes:author>
+      <description>این اپیزود از کتاب «چگونه کمال‌گرا نباشیم» اثر استفان گایز است که نشان می‌دهد چطور با رها کردن کمال‌گرایی و تمرکز بر قدم‌های کوچک می‌توانیم پیشرفت واقعی داشته باشیم.</description>
+      <pubDate>Thu, 06 Jun 2025 12:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/Priiiiiiiiiiiiiiiii/Mypodcast/blob/main/Audio_595199%20(online-audio-converter.com)-1.mp3?raw=true" length="12345678" type="audio/mpeg"/>
+      <guid>https://github.com/Priiiiiiiiiiiiiiiii/Mypodcast/audio1</guid>
+      <itunes:image href="https://github.com/Priiiiiiiiiiiiiiiii/Mypodcast/blob/f20d9ed231d9a3dda74d928c769653773ea3669e/InShot_20250606_021038911.jpg?raw=true"/>
+    </item>
+
+  </channel>
+</rss>
